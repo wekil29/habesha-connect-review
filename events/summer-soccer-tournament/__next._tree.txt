@@ -1,0 +1,2 @@
+:HL["/habesha-connect-review/_next/static/chunks/0knvcg8.pe4lj.css","style"]
+0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"events","param":null,"prefetchHints":0,"slots":{"children":{"name":"slug","param":{"type":"d","key":"summer-soccer-tournament","siblings":null},"prefetchHints":0,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}}}}}},"staleTime":300,"buildId":"BAUyjttO9dA3HBHBR-GDx"}
