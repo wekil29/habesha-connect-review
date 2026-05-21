@@ -1,2 +1,2 @@
-:HL["/habesha-connect-review/_next/static/chunks/0knvcg8.pe4lj.css","style"]
-0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"businesses","param":null,"prefetchHints":0,"slots":{"children":{"name":"slug","param":{"type":"d","key":"selam-ethiopian-kitchen","siblings":null},"prefetchHints":0,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}}}}}},"staleTime":300,"buildId":"BAUyjttO9dA3HBHBR-GDx"}
+:HL["/habesha-connect-review/_next/static/chunks/10su5w_ksfc23.css","style"]
+0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"businesses","param":null,"prefetchHints":0,"slots":{"children":{"name":"slug","param":{"type":"d","key":"selam-ethiopian-kitchen","siblings":null},"prefetchHints":0,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}}}}}},"staleTime":300,"buildId":"-0pHvMDFVNYhi31QNILcE"}
