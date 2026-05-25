@@ -1,2 +1,2 @@
-:HL["/habesha-connect-review/_next/static/chunks/169pa696-u5dg.css","style"]
-0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"businesses","param":null,"prefetchHints":0,"slots":{"children":{"name":"slug","param":{"type":"d","key":"habesha-tax-and-insurance","siblings":null},"prefetchHints":0,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}}}}}},"staleTime":300,"buildId":"t50gqF-mk_vhaC1d8nmXF"}
+:HL["/habesha-connect-review/_next/static/chunks/03p1g8nfl~9i0.css","style"]
+0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"businesses","param":null,"prefetchHints":0,"slots":{"children":{"name":"slug","param":{"type":"d","key":"habesha-tax-and-insurance","siblings":null},"prefetchHints":0,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}}}}}},"staleTime":300,"buildId":"k06Qtcnv0WK0rBWZ3LwQb"}
