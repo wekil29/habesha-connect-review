@@ -1,2 +1,2 @@
-:HL["/habesha-connect-review/_next/static/chunks/0kdh59vtvre3f.css","style"]
-0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"register","param":null,"prefetchHints":0,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}}}},"staleTime":300,"buildId":"mRDC3OKf1ykiygZlBdNli"}
+:HL["/habesha-connect-review/_next/static/chunks/169pa696-u5dg.css","style"]
+0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"register","param":null,"prefetchHints":0,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}}}},"staleTime":300,"buildId":"t50gqF-mk_vhaC1d8nmXF"}
